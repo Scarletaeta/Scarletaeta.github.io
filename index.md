@@ -10,5 +10,7 @@ Currently investigating the effect that galactic dynamical perturbations have on
 ##### Twitter: [@ScarlettRoyle](https://twitter.com/ScarlettRoyle)
 ##### Address:
 > Room 2.30, Astrophysics Research Institute, IC2 Building
+> 
 > 146 Brownlow Hill, Liverpool
+> 
 > L3 5RF
