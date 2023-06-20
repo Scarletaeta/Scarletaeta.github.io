@@ -1,6 +1,6 @@
 # Scarlett E Royle
-##### PhD Candidate
-##### Astrophysics Research Institute, Liverpool John Moores University
+## PhD Candidate
+### Astrophysics Research Institute, Liverpool John Moores University
 
 Currently investigating the effect that galactic dynamical perturbations have on planetary system architectures and potential habitability.
 
